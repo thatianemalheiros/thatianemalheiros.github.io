@@ -1,6 +1,6 @@
 <img src="#" alt="Exemplo imagem">
 
-> Curriculo, Serviços e Portfolio. Esse Projeto foi Construido durante o Curso Essencial de Git e github da Geek Universety.
+> Meu Curriculo, Serviços e Portfolio. Esse Projeto foi Construido durante o Curso Essencial de Git e github da Geek Universety.
 
 ### Ajustes e melhorias
 
