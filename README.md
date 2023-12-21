@@ -1,4 +1,4 @@
-<img src="#" alt="Exemplo imagem">
+<img src="visualizacao.png" alt="Exemplo imagem">
 
 > Meu Curriculo, Serviços e Portfolio. Esse Projeto foi Construido durante o Curso Essencial de Git e github da Geek Universety.
 
